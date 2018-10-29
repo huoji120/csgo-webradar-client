@@ -8,4 +8,5 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 .idea
+bin
 cmake-build-debug
