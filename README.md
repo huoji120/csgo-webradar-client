@@ -1,6 +1,9 @@
 # csgo-webradar-client
 A shitty web-based radar client for Counter-Strike: Global Offensive
 
+## Working-in-progress
+Writing JSON via jsoncpp is not working currently. If somebody knows what's wrong please make a pull request.
+
 ## Compiling
 
 ### Build requirements
@@ -29,3 +32,6 @@ In order to run this, you MUST use sudo/su due to the memory functions.  Once yo
 ```bash
 ./update.sh
 ```
+
+## Credit
+@Teklad for his [csgo-horker]https://github.com/Teklad/csgo-horker project
