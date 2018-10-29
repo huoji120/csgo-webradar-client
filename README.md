@@ -5,17 +5,8 @@ A shitty web-based radar client for Counter-Strike: Global Offensive
 
 ### Build requirements
 
-Specific distro instructions for build requirements:
-
-*Arch Linux*:
-```bash
-sudo pacman -S cmake git
-```
-
-*Debian/Ubuntu/Mint*:
-```bash
-sudo apt-get install cmake build-essential git
-```
+* libcurl3
+* libcurl-dev
 
 ### Clone the repository
 ```bash
