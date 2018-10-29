@@ -34,4 +34,4 @@ In order to run this, you MUST use sudo/su due to the memory functions.  Once yo
 ```
 
 ## Credit
-@Teklad for his [csgo-horker]https://github.com/Teklad/csgo-horker project
+@Teklad for his [csgo-horker](https://github.com/Teklad/csgo-horker) project
