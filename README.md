@@ -2,7 +2,8 @@
 A shitty web-based radar client for Counter-Strike: Global Offensive
 
 ## Working-in-progress
-Writing JSON via jsoncpp is not working currently. If somebody knows what's wrong please make a pull request.
+* Writing JSON via jsoncpp is not working currently. If somebody knows what's wrong please make a pull request.
+* Server program is not available for now
 
 ## Compiling
 
